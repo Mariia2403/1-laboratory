@@ -1,0 +1,14 @@
+D:\Visual Studio (2)\2 курс\ООП\1 лабораторна\1 task\bin\Debug\1 task.exe.config
+D:\Visual Studio (2)\2 курс\ООП\1 лабораторна\1 task\bin\Debug\1 task.exe
+D:\Visual Studio (2)\2 курс\ООП\1 лабораторна\1 task\bin\Debug\1 task.pdb
+D:\Visual Studio (2)\2 курс\ООП\1 лабораторна\1 task\obj\Debug\1 task.csproj.AssemblyReference.cache
+D:\Visual Studio (2)\2 курс\ООП\1 лабораторна\1 task\obj\Debug\1 task.csproj.CoreCompileInputs.cache
+D:\Visual Studio (2)\2 курс\ООП\1 лабораторна\1 task\obj\Debug\1 task.exe
+D:\Visual Studio (2)\2 курс\ООП\1 лабораторна\1 task\obj\Debug\1 task.pdb
+D:\Visual Studio (2)\2 курс\ООП\1 ЛБ\1 завд\1 task\bin\Debug\1 task.exe.config
+D:\Visual Studio (2)\2 курс\ООП\1 ЛБ\1 завд\1 task\bin\Debug\1 task.exe
+D:\Visual Studio (2)\2 курс\ООП\1 ЛБ\1 завд\1 task\bin\Debug\1 task.pdb
+D:\Visual Studio (2)\2 курс\ООП\1 ЛБ\1 завд\1 task\obj\Debug\1 task.csproj.AssemblyReference.cache
+D:\Visual Studio (2)\2 курс\ООП\1 ЛБ\1 завд\1 task\obj\Debug\1 task.csproj.CoreCompileInputs.cache
+D:\Visual Studio (2)\2 курс\ООП\1 ЛБ\1 завд\1 task\obj\Debug\1 task.exe
+D:\Visual Studio (2)\2 курс\ООП\1 ЛБ\1 завд\1 task\obj\Debug\1 task.pdb
